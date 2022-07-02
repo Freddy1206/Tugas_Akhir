@@ -1,0 +1,4 @@
+Ball
+Robot
+SoccerGoal
+Obstacle
